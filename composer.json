@@ -1,0 +1,19 @@
+{
+  "name": "jallvar/TestTask",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jallvar",
+      "email": "montypie@yandex.ru"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Jallvar\\": "./phpPart"
+    }
+  }
+}
